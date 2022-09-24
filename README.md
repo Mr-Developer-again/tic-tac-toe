@@ -12,4 +12,5 @@
 
 
 * To compile the source codes:
+
             #gcc main.cpp tic_tac_toe.cpp -lstdc++ -lncurses -std=c++11 -o <output_name>
