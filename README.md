@@ -3,6 +3,7 @@
 
 
 * To install ncurses library in Linux:
+
       - on Debian-based distros :
             #apt-get install -y libncurses5-dev libncursesw5-dev
 
