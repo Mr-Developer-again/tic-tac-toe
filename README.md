@@ -14,3 +14,8 @@
 * To compile the source codes:
 
             #gcc main.cpp tic_tac_toe.cpp -lstdc++ -lncurses -std=c++11 -o <output_name>
+            
+* a sample of functionality of the game:
+
+https://user-images.githubusercontent.com/112639283/200132896-cc14fe46-d3f0-4f6f-8767-9c0135d0c675.mp4
+
